@@ -1,6 +1,6 @@
 Name:           lian-li-linux
 Version:        1.1.4
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Open-source Linux replacement for L-Connect 3
 
 %global evdi_version 1.15.0
