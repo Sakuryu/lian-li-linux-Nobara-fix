@@ -34,7 +34,7 @@ BuildRequires:  pkgconfig(libavutil)
 BuildRequires:  pkgconfig(libavfilter)
 
 Requires:       hicolor-icon-theme
-Requires:       ffmpeg
+Requires:       ffmpeg-free
 Requires:       systemd-libs
 Recommends:     polkit
 Suggests:       %{name}-evdi = %{version}-%{release}
